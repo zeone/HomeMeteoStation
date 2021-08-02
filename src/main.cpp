@@ -42,7 +42,7 @@ void setup()
   display.display();
 
   display.setContrast(60); // установка контраста
-  delay(1000);
+  //delay(1000);
   display.setTextSize(1);      // установка размера шрифта
   display.setTextColor(BLACK); // установка цвета текста
   display.setCursor(0, 0);     // установка позиции курсора
